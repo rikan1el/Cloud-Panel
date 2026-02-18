@@ -155,12 +155,6 @@ chmod -R 777 files
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 👨‍💻 Автор
 
 **Rikaniel**
